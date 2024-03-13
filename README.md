@@ -11,17 +11,18 @@ Research Bot is a user-friendly news research tool designed for effortless infor
 
 ### 1.Clone this repository to your local machine using:
 
-'''bash
-git clone https://github.com/SandeepSandy19/URL-Research-Bot-using-LLM.git
-'''
+```bash
+  git clone https://github.com/SandeepSandy19/URL-Research-Bot-using-LLM.git
+```
 
 ### 2.Navigate to the project directory:
 
 
 Install the required dependencies using pip:
-'''bash
-pip install -r requirements.txt
-'''
+
+```bash
+  pip install -r requirements.txt
+```
 
 3. Set up your OpenAI API key by creating a .env file in the project root and adding your API
 
@@ -29,4 +30,6 @@ pip install -r requirements.txt
 
 
 ## Run the Streamlit app by executing:
-> streamlit run main.py
+```bash
+  git clone https://github.com/SandeepSandy19/URL-Research-Bot-using-LLM.git
+```
