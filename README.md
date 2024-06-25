@@ -31,5 +31,5 @@ Install the required dependencies using pip:
 
 ## Run the Streamlit app by executing:
 ```bash
-  git clone https://github.com/SandeepSandy19/URL-Research-Bot-using-LLM.git
+  streamlit run app.py
 ```
